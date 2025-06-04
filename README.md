@@ -1,3 +1,3 @@
 # Minecraft
-Space for uploads concerning: mods, server, world data etc.
+Space for uploads concerning mods, server, world data, etc.
 👑
